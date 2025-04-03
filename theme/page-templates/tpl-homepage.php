@@ -49,7 +49,7 @@ get_header();
 					</div>
 				</div>
 			</div>
-			<h1 class="text-3xl md:text-5xl w-2/3 md:w-1/2 mx-auto text-center my-25">En Wikilok Enterprise creemos que trabajando en equipo se logran los sueños…</h1>
+			<h1 class="text-3xl md:text-5xl w-full px-8 md:w-1/2 mx-auto text-center my-25">En Wikilok Enterprise creemos que trabajando en equipo se logran los sueños…</h1>
 		</div>
 
 			<div id="nosotros" class="w-full bg-amber-50">

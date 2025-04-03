@@ -613,9 +613,6 @@ h1,h2,h3,h4,h5,h6, .h1,.h2,.h3,.h4,.h5,.h6 {
 .min-h-screen {
   min-height: 100vh;
 }
-.w-2\/3 {
-  width: calc(2/3 * 100%);
-}
 .w-5 {
   width: calc(var(--spacing) * 5);
 }
