@@ -607,9 +607,6 @@ h1,h2,h3,h4,h5,h6, .h1,.h2,.h3,.h4,.h5,.h6 {
 .h-full {
   height: 100%;
 }
-.h-screen {
-  height: 100vh;
-}
 .min-h-\[400px\] {
   min-height: 400px;
 }
@@ -917,6 +914,11 @@ h1,h2,h3,h4,h5,h6, .h1,.h2,.h3,.h4,.h5,.h6 {
 @media (width >= 48rem) {
   .md\:h-16\.5 {
     height: calc(var(--spacing) * 16.5);
+  }
+}
+@media (width >= 48rem) {
+  .md\:h-screen {
+    height: 100vh;
   }
 }
 @media (width >= 48rem) {

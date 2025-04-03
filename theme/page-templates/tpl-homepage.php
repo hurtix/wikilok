@@ -75,7 +75,7 @@ get_header();
 			</div>
 
 			<div id="grupo" class="w-full bg-white text-white">
-				<div class="flex flex-wrap h-screen">
+				<div class="flex flex-wrap h-full md:h-screen">
 					<div class="w-full md:w-1/3 flex justify-center items-center flex-col gap-4 p-8 item-group" style="background-color: #E16F34;">
 						<img class="h-20" src="https://wikilok.com/wp-content/uploads/2020/02/logo-central.svg" alt="">
 						<h3 class="text-3xl text-center">Cadena logística de productos derivados del café</h3>
