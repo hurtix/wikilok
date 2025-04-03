@@ -76,17 +76,17 @@ get_header();
 
 			<div id="grupo" class="w-full bg-white text-white">
 				<div class="flex flex-wrap h-screen">
-					<div class="w-full md:w-1/3 flex justify-center items-center flex-col gap-4 px-8" style="background-color: #E16F34;">
+					<div class="w-full md:w-1/3 flex justify-center items-center flex-col gap-4 p-8" style="background-color: #E16F34;">
 						<img class="h-20" src="https://wikilok.com/wp-content/uploads/2020/02/logo-central.svg" alt="">
 						<h3 class="text-3xl text-center">Cadena logística de productos derivados del café</h3>
 						<button type="button" onclick="window.open('https://centralmountaincoffee.com/', '_blank')" class="cursor-pointer text-white hover:text-amber-500 border border-white hover:bg-amber-50 focus:ring-4 focus:outline-none focus:ring-amber-700 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2">Visita el sitio</button>
 					</div>
-					<div class="w-full md:w-1/3 flex justify-center items-center flex-col gap-4 px-8" style="background-color: #DD4635;">
+					<div class="w-full md:w-1/3 flex justify-center items-center flex-col gap-4 p-8" style="background-color: #DD4635;">
 						<img class="h-20" src="https://wikilok.com/wp-content/uploads/2020/02/logo-kubbees.svg" alt="">
 						<h3 class="text-3xl text-center">I+d para productos del sector alimenticio</h3>
 						<button type="button" onclick="window.open('https://facebook.com/Wikilok/', '_blank')" class="cursor-pointer text-white hover:text-amber-500 border border-white hover:bg-amber-50 focus:ring-4 focus:outline-none focus:ring-amber-700 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2">Visita el sitio</button>
 					</div>
-					<div class="w-full md:w-1/3 flex justify-center items-center flex-col gap-4 px-8" style="background-color: #9E1E3B;">
+					<div class="w-full md:w-1/3 flex justify-center items-center flex-col gap-4 p-8" style="background-color: #9E1E3B;">
 						<img class="h-20" src="https://wikilok.com/wp-content/uploads/2020/02/logo-wikilok.svg" alt="">
 						<h3 class="text-3xl text-center">Comercialización de franquicias a nivel estratégico</h3>
 						<button type="button" onclick="window.open('https://facebook.com/Wikilok/', '_blank')" class="cursor-pointer text-white hover:text-amber-500 border border-white hover:bg-amber-50 focus:ring-4 focus:outline-none focus:ring-amber-700 font-medium rounded-full text-sm px-5 py-2.5 text-center me-2 mb-2">Entérate ahora</button>
