@@ -49,6 +49,7 @@ wp-config.php
 
 # Dependencias
 /node_modules
+/node_modules/**
 
 # Archivos de compilación que se regeneran
 # (si hay alguna carpeta específica de archivos compilados que no quieras versionar)
