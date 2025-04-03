@@ -17,7 +17,7 @@ get_header();
 
 <section id="primary">
 	<main id="main" class="text-xl">
-ç
+	<h1 class="text-2xl text-amber-500">Plantilla para landing</h1>
 	</main><!-- #main -->
 </section><!-- #primary -->
 
